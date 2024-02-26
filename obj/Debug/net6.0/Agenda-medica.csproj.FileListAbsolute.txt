@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.AssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Downloads\Proyecto-CitaMedica\obj\Debug\net6.0\Agenda-medica.MvcApplicationPartsAssemblyInfo.cache
